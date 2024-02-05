@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @aryashjain
-- 👀 I’m interested in Full stack development , competetive programming and i love to build new things
-- 🌱 I’m polishing my Full stack development skills and learning MERN stack
+- 👀 I’m interested in development ,competitive programming, Data Structures and Algorithms, and I love to build new things
+- 🌱 I’m polishing my development skills and learning constantly
+- 👀 My repositories have various Projects Implemented in JavaScript including -: Quiz App, Discord Bot, URL shortener, Employee Management System, And a LOT MORE COOL STUFF.
 - 💞️ I’m looking to collaborate on any project that helps me ace my learning
 - 📫 How to reach me ...
-- email- aryash.enu@gmail.com
+- email- aryashjain747@gmail.com
 
 <!---
 aryashjain/aryashjain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
