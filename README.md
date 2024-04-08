@@ -2,8 +2,7 @@
 - Ex-SDE Intern at TickerTape and Ex-SWE intern at ByteLearn.ai
 - 👀 I’m interested in development, competitive programming, Data Structures, and Algorithms, and I love to build new things
 - 🌱 I’m polishing my development skills and learning constantly
-- 👀 My repositories have various Projects Implemented in JavaScript including -: Quiz App, Discord Bot, URL shortener, Employee Management System, And a LOT MORE COOL STUFF.
-- 💞️ I’m looking to collaborate on any project that helps me ace my learning
+- 👀 My repositories have various Projects Implemented in JavaScript including -: Quizzer App, Discord Bot, Book Library, URL shortener, Employee Management System, And a LOT MORE COOL STUFF.
 - email- aryashjain747@gmail.com
 - find my resume -: https://bit.ly/AryashResume
 
