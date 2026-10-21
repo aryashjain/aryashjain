@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aryashjain
-- Ex-SDE Intern at TickerTape and Ex-SWE intern at ByteLearn.ai
+- SDE 2 at super.money by flipkart
 - 👀 I’m interested in development, competitive programming, Data Structures, and Algorithms, and I love to build new things
 - 🌱 I’m polishing my development skills and learning constantly
 - 👀 My repositories have various Projects Implemented in JavaScript including -: Quizzer App, Discord Bot, Book Library, URL shortener, Employee Management System, And a LOT MORE COOL STUFF.
