@@ -4,8 +4,9 @@
 - 🌱 I’m polishing my development skills and learning constantly
 - 👀 My repositories have various Projects Implemented in JavaScript including -: Quizzer App, Discord Bot, Book Library, URL shortener, Employee Management System, And a LOT MORE COOL STUFF.
 - email- aryashjain747@gmail.com
-- find my resume -: https://bit.ly/AryashResume
+- find my resume -: [https://bit.ly/AryashResume](https://drive.google.com/file/d/123mirOd4AVXyty8tRW8UfkeWmzldSfo5/view)
 
+- Portfolio: https://aryashjain.github.io/Portfolio/
 
 <!---
 aryashjain/aryashjain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
